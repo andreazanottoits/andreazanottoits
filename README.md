@@ -1,7 +1,7 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## This Readme has been created with the help of my friend Giacomo go and check him out 
-<p><a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a></p>
+<p>Giacomo's GitHub profile <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a></p>
 
 ## Find me on 🧑‍🤝‍🧑
 <p style="align:center">
