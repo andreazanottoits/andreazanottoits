@@ -1,17 +1,21 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Credits
+
 ### This Readme has been created with the help of my friend Giacomo. Check him out! :heart:
-<p>Giacomo's GitHub profile <a href="https://github.com/BaggioGiacomo/" target="_blank" rel="noopener noreferrer"><div style="vertical-align:middle; display:inline-block">  <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></div></a></p>
+
+<p>Giacomo's GitHub profile <div style="vertical-align:middle; display:inline-block"> <a href="https://github.com/BaggioGiacomo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</img></a></div></p>
 
 ## Contacts
+
 <p style="align:center">
- <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a>
- <a href="https://www.linkedin.com/in/andrea-zanotto-b489291b2/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></image></a>
- <a href="mailto:azanotto80@gmail.com"> <image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</image></a>
+ <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</img></a>
+ <a href="https://www.linkedin.com/in/andrea-zanotto-b489291b2/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+ <a href="mailto:azanotto80@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img></a>
 </p>
 
 ## Languages
+
 <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,24 +29,27 @@
 ## Frameworks
 
 ### Backend
+
 <p>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### Frontend
+
 <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white"/>
 </p>
 
-
 ### Mobile dev
+
 <p>
     <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
 </p>
 
 ### UI
+
 <p>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
@@ -50,6 +57,7 @@
 </p>
 
 ## Database 🧰
+
 <p>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -58,8 +66,10 @@
 </p>
 
 ## My GitHub Stats! 📈
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andreazanottoits&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
 
 # Recent Activity :zap:
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
