@@ -1,16 +1,16 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## This Readme has been created with the help of my friend Giacomo go and check him out 
-<p>Giacomo's GitHub profile <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a></p>
+<p>Giacomo's GitHub profile <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image style="vertical-align:middle" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a></p>
 
-## Find me on 🧑‍🤝‍🧑
+## Contacts
 <p style="align:center">
  <a href="https://github.com/andreazanottoits/" target="_blank" rel="noopener noreferrer"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</image></a>
  <a href="https://www.linkedin.com/in/andrea-zanotto-b489291b2/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></image></a>
  <a href="mailto:azanotto80@gmail.com"> <image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</image></a>
 </p>
 
-## Languages 🛠️
+## Languages
 <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-## Frameworks 💻
+## Frameworks
 
 ### Backend
 <p>
