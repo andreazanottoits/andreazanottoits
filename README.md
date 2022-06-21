@@ -57,4 +57,6 @@
 ## My GitHub Stats! 📈
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=andreazanottoits&count_private=true&include_all_commits=true&theme=dracula&border_radius=20"/></p>
 
-
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
